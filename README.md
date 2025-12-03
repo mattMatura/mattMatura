@@ -5,7 +5,7 @@ Product Manager | Technology Consultant
 <!-- CONTACT BADGES / BUTTONS -->
 
 <p align="left">
-<a href="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/mattMatura/mattMatura/raw/main/MATURA_MUFARO_PM_RESUME.pdf">
+<a href="https://www.google.com/search?q=https://github.com/mattMatura/mattMatura/raw/main/MATURA_MUFARO_PM_RESUME.pdf">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Resume-Download_PDF-EF4444%3Fstyle%3Dfor-the-badge%26logo%3Dadobeacrobatreader%26logoColor%3Dwhite" alt="Download Resume" />
 </a>
 <a href="https://www.linkedin.com/in/maturamufaro/">
