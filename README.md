@@ -5,9 +5,9 @@ Product Manager | Technology Consultant
 <!-- CONTACT LINKS -->
 
 <p align="left">
-<a href="https://www.google.com/search?q=https://github.com/mattMatura/mattMatura/raw/main/MATURA_MUFARO_PM_RESUME.pdf">Download Resume</a> •
+<a href="https://github.com/mattMatura/mattMatura/raw/main/MATURA_MUFARO_PM_RESUME.pdf">Download Resume</a> •
 <a href="https://www.linkedin.com/in/maturamufaro/">LinkedIn</a> •
-<a href="https://www.google.com/search?q=https://mufaropm.netlify.app">Portfolio</a> •
+<a href="https://mufaropm.netlify.app">Portfolio</a> •
 <a href="mailto:maturamufaro@gmail.com">Email</a>
 </p>
 
