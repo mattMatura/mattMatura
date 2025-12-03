@@ -2,21 +2,13 @@ Hi there, I'm Mufaro Matura! 👋
 
 Product Manager | Technology Consultant
 
-<!-- CONTACT BADGES / BUTTONS -->
+<!-- CONTACT LINKS -->
 
 <p align="left">
-<a href="https://www.google.com/search?q=https://github.com/mattMatura/mattMatura/raw/main/MATURA_MUFARO_PM_RESUME.pdf">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Resume-Download_PDF-EF4444%3Fstyle%3Dfor-the-badge%26logo%3Dadobeacrobatreader%26logoColor%3Dwhite" alt="Download Resume" />
-</a>
-<a href="https://www.linkedin.com/in/maturamufaro/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
-<a href="https://www.google.com/search?q=https://mufaropm.netlify.app">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-mufaropm.netlify.app-2563EB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dwhite" alt="Portfolio" />
-</a>
-<a href="mailto:maturamufaro@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-333333%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
-</a>
+<a href="https://www.google.com/search?q=https://github.com/mattMatura/mattMatura/raw/main/MATURA_MUFARO_PM_RESUME.pdf">Download Resume</a> •
+<a href="https://www.linkedin.com/in/maturamufaro/">LinkedIn</a> •
+<a href="https://www.google.com/search?q=https://mufaropm.netlify.app">Portfolio</a> •
+<a href="mailto:maturamufaro@gmail.com">Email</a>
 </p>
 
 Currently completing my Master's in Engineering Strategy at the University of Genoa 🇮🇹
