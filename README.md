@@ -1,72 +1,49 @@
-Hi there, I'm Mufaro Matura! 👋
+# Mufaro Matura
 
-Product Manager | Technology Consultant
+**Technology Strategist | Digital Transformation | AI-Powered Business Systems**
 
-<!-- CONTACT LINKS -->
+[Resume](https://github.com/mattMatura/mattMatura/raw/main/MATURA_MUFARO_PM_RESUME.pdf) • [LinkedIn](https://www.linkedin.com/in/maturamufaro/) • [Portfolio](https://mufaropm.netlify.app) • [Email](mailto:maturamufaro@gmail.com)
 
-<p align="left">
-<a href="https://github.com/mattMatura/mattMatura/raw/main/MATURA_MUFARO_PM_RESUME.pdf">Download Resume</a> •
-<a href="https://www.linkedin.com/in/maturamufaro/">LinkedIn</a> •
-<a href="https://mufaropm.netlify.app">Portfolio</a> •
-<a href="mailto:maturamufaro@gmail.com">Email</a>
-</p>
+---
 
-Currently completing my Master's in Engineering Strategy at the University of Genoa 🇮🇹
+## About
 
-🚀 About Me
+I build systems that turn business complexity into commercial outcomes.
 
-I bridge the gap between Engineering Complexity and Business Strategy. With a background in Computer Science and experience leading multi-country integrations, I specialize in building products that scale.
+Over five years across Zimbabwe, South Africa, and Italy, I have led pricing transformations, enterprise integrations, and AI-powered product initiatives — working at the intersection of technical architecture and business strategy. I can design an ETL pipeline and present the business case for it to a leadership team. That combination is what I focus on developing.
 
-🔭 I’m currently working on a number of Data analysis and AI projects in different sectors
+Currently completing an MSc in Engineering Strategy at the University of Genoa while leading a digital transformation project at Alifood — integrating ERP and CRM systems to build automated customer segmentation and AI-driven sales intelligence tools. This work forms the basis of my master's thesis.
 
-🌱 I’m mastering Enterprise Architecture and Cloud Computing.
+---
 
-💼 I have lworked on digital transformations projects for large organisations.
+## Selected Work
 
-🏆 Featured Impact
+**Digital Transformation — Zimbabwe Cricket**
+Led the replacement of a legacy manual ticketing system with a secure digital infrastructure. Built QR-code validation, mobile scanning units, and a real-time analytics dashboard. Eliminated ticket fraud and enabled live crowd flow monitoring across national matches.
 
-🏏 Digital Transformation: Zimbabwe Cricket
+**Enterprise Integration — ABF Sugar (Africa's largest sugar producer)**
+Served as Technical Product Manager for API connectivity across 6 African countries using SAP S/4HANA, SuccessFactors, Flowgear, and REST APIs. Reduced Change Advisory Board approval times by 50% and achieved 100% audit compliance.
 
-Role: Product Lead
+**SaaS Pricing Transformation — Axis Solutions Africa**
+Architected and executed a full monetization strategy shift from one-time licensing to subscription. Used usage heatmaps to design tiered pricing tiers. Result: 30% year-on-year revenue growth and a stable, predictable MRR base.
 
-Replaced legacy manual ticketing with a secure digital ecosystem.
+**AI-Powered CRM Integration — Alifood (ongoing)**
+Building an automated customer intelligence system connecting Mago4 ERP to Brevo CRM. Developing A/B/C revenue scoring models, AI-generated sales briefs, and reactivation workflows for dormant accounts.
 
-Tech: QR-Code Validation, Mobile Scanning Units, Real-time Analytics Dashboard.
+---
 
-Impact: Eliminated ticket fraud and enabled real-time crowd flow monitoring for national matches.
+## Technical Stack
 
-🏭 Enterprise Integration: ABF Sugar
+**Data & Analytics** — Python, SQL, Power BI, ETL Pipelines, Data Warehousing
 
-Role: Technical Product Manager
+**Enterprise Systems** — SAP S/4HANA, SuccessFactors, Mago4, Flowgear, REST APIs
 
-Orchestrated API connectivity across 6 African countries.
+**AI & Automation** — LangChain, RAG Systems, AI Agents, GenAI, PineCone, Model Benchmarking
 
-Tech: SAP S/4HANA, SuccessFactors, Flowgear, REST APIs.
+**Product & Strategy** — Product Roadmapping, Pricing Strategy, Go-to-Market, OKRs, Agile/Scrum
 
-Impact: Reduced Change Advisory Board (CAB) approval times by 50% and achieved 100% audit compliance.
+---
 
-💰 SaaS Pivot: Axis Solutions
+*Open to roles at the intersection of AI strategy, product leadership, and business transformation.*
 
-Role: Product Owner
-
-Transitioned B2B product from one-time licensing to subscription model.
-
-Strategy: Tiered pricing based on usage heatmaps.
-
-Impact: drove 30% YoY Revenue Growth and established predictable MRR.
-
-📈 GitHub Stats
-
-<p align="left">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DmattMatura%26show_icons%3Dtrue%26hide_border%3Dtrue%26theme%3Dradical" alt="mattMatura" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DmattMatura%26layout%3Dcompact%26hide_border%3Dtrue%26theme%3Dradical" alt="mattMatura" />
-</p>
-
-<p align="center">
-<i>Let's build something scalable.</i>
-
-
-
-
-<a href="https://www.linkedin.com/in/maturamufaro/">Connect on LinkedIn</a>
-</p>
+[Connect on LinkedIn](https://www.linkedin.com/in/maturamufaro/)
